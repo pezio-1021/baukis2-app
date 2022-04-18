@@ -1,5 +1,9 @@
 # Baukis2 - 顧客管理システム
 
+## 参考
+https://github.com/kuroda/baukis2/pull/39/files
+
+
 ## 説明
 
 Baukis2 は企業向けの顧客管理システム（Ruby on Rails 学習用サンプル）です。
